@@ -136,6 +136,8 @@ These are needed to actually connect to a network after the driver is built:
 
 ### Before You Begin
 
+If you have not yet installed Debian on your MacBook, start with [INSTALLATION.md](INSTALLATION.md) first — it covers preparing the hybrid USB, booting the installer, and completing the base system setup before returning here.
+
 You will need:
 - A USB stick with at least 2GB of free space, formatted as FAT32, exFAT, or ext4
 - A machine with internet access to download the packages — any OS works, Windows, macOS, and Linux all handle this equally well
