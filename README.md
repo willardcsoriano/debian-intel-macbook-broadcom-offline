@@ -100,7 +100,6 @@ and you will never need to do this manually again.
 ## Compatibility
 
 | | |
-|---|---|
 | **Tested Hardware** | MacBook Air Mid-2015 (Intel Core i5, 8GB RAM) |
 | **Expected to work** | Most Intel MacBooks 2010–2019 with BCM43xx WiFi |
 | **Not compatible** | Apple Silicon Macs (M1/M2/M3/M4) |
@@ -706,4 +705,3 @@ https://zenodo.org/records/19414113
 *Born out of a real offline install session on a MacBook Air in April
 2026. Every package in this collection was manually identified and
 verified through trial and error — sometimes a lot of error.*
-```
