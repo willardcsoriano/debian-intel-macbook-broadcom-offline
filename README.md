@@ -1,8 +1,8 @@
 # Debian Trixie (13) on Intel MacBook — Complete Offline WiFi Bootstrap Kit
 
-**Status:** Verified Working — April 2026
-**Maintained by:** Willard
-**Target Hardware:** Intel MacBooks (2012–2019) with Broadcom BCM43xx WiFi
+**Status:** Verified Working — April 2026  
+**Maintained by:** Willard  
+**Target Hardware:** Intel MacBooks (2012–2019) with Broadcom BCM43xx WiFi  
 
 ---
 
